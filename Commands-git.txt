@@ -15,4 +15,9 @@ C- Commande de pull
 
     1. Pull
  
+D- Créer branche
+
+	1- git branch add-create-branch-command
+ 	2- git checkout add-create-branch-command
+
 
