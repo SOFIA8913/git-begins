@@ -1,9 +1,9 @@
 Commande git : 
 
 A- Cloner un repository 
-    1. Créer un repository sur github
+    1. CrÃ©er un repository sur github
     2. Donner un nom au nouveau repository 
-    3. Dans git bash (centre des commandes), écrire sur la ligne de commande git clone et l’adresse du dossier 
+    3. Dans git bash (centre des commandes), Ã©crire sur la ligne de commande git clone et lâ€™adresse du dossier 
 
 B- Les 3 commandes de push 
 
@@ -11,6 +11,8 @@ B- Les 3 commandes de push
     2. Commit 
     3. Push 
 
+C- Commande de pull 
+
+    1. Pull
  
-“commands-git”,
 
