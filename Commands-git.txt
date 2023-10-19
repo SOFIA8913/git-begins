@@ -7,12 +7,12 @@ A- Cloner un repository
 
 B- Les 3 commandes de push 
 
-    1. Add
-    2. Commit 
-    3. Push 
+    1. Add : git add . ou nom du fichier 
+    2. Commit : git commit -m "(commentaire)"
+    3. Push : git push 
 
 C- Commande de pull 
 
-    1. Pull
+    1. Pull : git pull 
  
 
